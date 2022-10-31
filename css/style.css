@@ -1,0 +1,18 @@
+.list li{
+border-radius: 50%;
+background-color: black;
+}
+.soundbox img{
+height: 400px;
+}
+.btn{
+  background-color: lightpink;
+  border-radius: 10px;  
+  color: black;
+}
+.section {
+    height: 450px;
+    background-image:  url("images/bg-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
